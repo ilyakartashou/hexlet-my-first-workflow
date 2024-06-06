@@ -1,1 +1,5 @@
-[![Actions Status](https://github.com/EgorKurilko/hexlet-my-first-workflow/actions/workflows/hello-world/badge.svg)](https://github.com/IlyaKartashou/hexlet-my-first-workflow/actions)
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+
+https://github.com/ilyakartashou/hexlet-my-first-workflow
+Public
+/actions/workflows/.github/workflows/hello-world.yml/badge.svg
