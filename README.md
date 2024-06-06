@@ -2,4 +2,4 @@
 
 https://github.com/ilyakartashou/hexlet-my-first-workflow
 Public
-/actions/workflows/.github/workflows/hello-world.yml/badge.svg
+/actions/workflows/hello-world.yml/badge.svg
